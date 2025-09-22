@@ -1,0 +1,16 @@
+/* Tablets */
+@media (min-width: 768px) {
+  .container {
+    padding: 20px;
+    font-size: 1.1rem;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
